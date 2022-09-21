@@ -1,5 +1,5 @@
 ### Olá! 👋
-- 💁🏻‍♀️ Eu sou a Simone Crepaldi!
+- 🙋🏻‍♀️ Eu sou a Simone Crepaldi!
 - 👩🏻‍💻 Engenheira civil e em transição de carreira para a área de dados.
 - 🌱 Atualmente estudando Python, SQL, Power BI, Google Data Studio, Tableau...
 - 👯 Estou disponível para projetos que envolvam dados.
@@ -9,15 +9,14 @@
 
 <div align="left">
   <a href="https://github.com/simonecrepaldi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=simonecrepaldi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonecrepaldi&layout=compact&langs_count=7&theme=dracula"/></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=simonecrepaldi&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonecrepaldi&layout=compact&langs_count=7&theme=darcula"/></a>
   </div>
 
 ##
 **Onde você pode me encontrar:**
 
 <div align="left">
- <a href = "mailto:simoneccrepaldi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "mailto:simoneccrepaldi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/simonecrepaldi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://medium.com/@sccrepaldi" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a> 
  <a href="https://www.twitter.com/smncrstn" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
