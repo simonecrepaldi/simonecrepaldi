@@ -10,10 +10,8 @@
 <div align="center">
   <a href="https://github.com/simonecrepaldi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=simonecrepaldi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonecrepaldi&layout=compact&langs_count=7&theme=dracula"/>
-</a>
-  ![Snake animation](https://github.com//simonecrepaldi/simonecrepaldii/blob/output/github-contribution-grid-snake.svg)
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonecrepaldi&layout=compact&langs_count=7&theme=dracula"/></a>
+  </div>
 
 ##
 **Onde você pode me encontrar:**
