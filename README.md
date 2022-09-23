@@ -1,7 +1,7 @@
-### Olá! 👋
-- 🙋🏻‍♀️ Eu sou a Simone Crepaldi!
-- 👩🏻‍💻 Engenheira civil e em transição de carreira para a área de dados.
-- 🌱 Atualmente estudando Python, SQL, Power BI, Google Data Studio, Tableau...
+### Olá, eu sou a Simone Crepaldi! 👋
+
+- 👩🏻‍💻 Engenheira civil e em transição de carreira para a área de análise de dados.
+- 🌱 Atualmente estudando Python, SQL, Power BI, Google Data Studio, Tableau e estatística.
 - 👯 Estou disponível para projetos que envolvam dados.
 - 📫 Você pode entrar em contato comigo pelo e-mail simoneccrepaldi@gmail.com
 - 👩🏻 Ela/Dela
