@@ -6,13 +6,6 @@
 - 📫 Você pode entrar em contato comigo pelo e-mail simoneccrepaldi@gmail.com
 - 👩🏻 Ela/Dela
 ##
-
-<div align="left">
-  <a href="https://github.com/simonecrepaldi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=simonecrepaldi&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonecrepaldi&layout=compact&langs_count=7&theme=darcula"/></a>
-  </div>
-
-##
 **Onde você pode me encontrar:**
 
 <div align="left">
